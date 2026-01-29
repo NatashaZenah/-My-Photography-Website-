@@ -15,12 +15,14 @@
 
 3. Installation Guide
 
-4. Purpose of the Project
+4. Site Link
 
-5. License
+5. Purpose of the Project
 
-6. Acknowledgements
+6. License
 
+7. Acknowledgements
+   
 ---
 ## Project Description 
 This is a photography-themed website inspired by the work of Steve McCurry
@@ -49,6 +51,10 @@ The website shows:
 4.Confirm that all the image files are correctly named and can be opened
 
 5.Open "Photography.html" by going live
+
+---
+## Site Link
+https://github.com/NatashaZenah/-My-Photography-Website-.git
 
 ---
 ## Purpose of the Project
